@@ -1,3 +1,3 @@
 (function(){
-	console.log('Yo there!');
+	console.log('Yo there dude!');
 })();
